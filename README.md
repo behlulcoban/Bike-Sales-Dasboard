@@ -8,6 +8,7 @@ The dashboard is designed to be intuitive and user-friendly, enabling stakeholde
 This project contributes to the company's ability to make informed business decisions, tailor marketing efforts, and optimize product offerings based on the preferences and needs of different customer segments. The insights gained from the evaluation of bike sales data empower the organization to stay competitive in the market and enhance customer satisfaction.
 
 Overall, this analysis using Excel pivot tables provides a powerful tool for understanding customer behavior and serves as a foundation for data-driven decision-making within the company.
-![image](https://github.com/behlulcoban/Bike-Sales-Dasboard/assets/94908064/f5b3223a-1917-47f3-b5df-5ea555553dff)
+![image](https://github.com/behlulcoban/Bike-Sales-Dasboard/assets/94908064/9f66d4ae-289d-4fcc-a3d4-bf201f5a34ae)
+
 
 
